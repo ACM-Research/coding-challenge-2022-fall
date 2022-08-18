@@ -2,7 +2,7 @@
 
 This semester's challenge is especially open-ended. [Here is a dataset](https://www.kaggle.com/datasets/chancev/carsforsale) on Kaggle called "CarsForSale". It contains data scraped from the online car marketplace Cars.com. Each row contains 25 pieces of information about a car's listing, such as its price, year, model, and color.
 
-The challenge is to do *something interesting* with the data. What patterns can you find, visualizations can you make, or questions can you answer? In case nothing comes to mind, here are some ideas, with varying complexity:
+The challenge is to do *something interesting* with the data. Can you find a pattern, answer a question, or create a visualization? In case nothing comes to mind, here are some ideas, with varying complexity:
 
 - What qualities about a car do buyers seem to value the most?
 - Make a graph to visualize the most popular car models over time.
@@ -12,6 +12,8 @@ The challenge is to do *something interesting* with the data. What patterns can 
 - Use [cluster analysis](https://en.wikipedia.org/wiki/Cluster_analysis) to group the cars into categories.
 - How do people's taste in cars differ between states?
 - Train a machine learning model to predict some aspect of a car based on other information from its listing.
+
+However, we strongly encourage you to come up with your own problem to solve!
 
 You can use any programming language, framework, or library you want, but we recommend [creating a notebook in Kaggle](https://www.kaggle.com/docs/notebooks) and using Python. This will run in your browser, interlaces code with documentation, allows you to import the CarsForSale dataset easily by pressing the "Add data" button, and gives you access to Python's high-quality, high-level libraries for working with data. [Learn more about data science in Python.](https://www.w3schools.com/datascience/ds_python.asp)
 
