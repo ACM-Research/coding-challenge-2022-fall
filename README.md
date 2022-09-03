@@ -19,7 +19,7 @@ You can use any programming language, framework, or library you want, but we rec
 
 ## How to submit your solution
 
-1. [Create a  **public**  fork of this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and name it  `ACM-Research-coding-challenge-22F` (click the "Fork" button in the top right).
+1. [Create a **public** fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) of this repository and name it  `ACM-Research-coding-challenge-22F` (click the "Fork" button in the top right).
 
 2. Replace this README file with a description ([written in Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)) of your solution. Regardless of your success, describe the problem you set out to solve and how you did it. Split it up into sections with headers, and, if relevant, include figures.
 
