@@ -1,5 +1,7 @@
 # ACM Research coding challenge (Fall 2022)
 
+Note: if it's getting down to the deadline (September 5th at 11:59 CT) and you don't think you will be able to submit your project on time, just submit whatever you have!
+
 This semester's challenge is especially open-ended. [Here is a dataset](https://www.kaggle.com/datasets/chancev/carsforsale) on Kaggle called "CarsForSale". It contains data scraped from the online car marketplace Cars.com. Each row contains 25 pieces of information about a car's listing, such as its price, year, model, and color.
 
 The challenge is to do *something interesting* with the data. Can you find a pattern, answer a question, or create a visualization? In case nothing comes to mind, here are some ideas, with varying complexity:
