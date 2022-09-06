@@ -1,6 +1,6 @@
 # ACM Research coding challenge (Fall 2022)
 
-Note: if it's getting down to the deadline (September 5th at 11:59 CT) and you don't think you will be able to submit your project on time, just [submit](http://apply.acmutd.co/research-coding-challenge) whatever you have!
+Note: if it's getting down to the deadline (September 5th at 11:59 CT) and you don't think you will be able to finish your project on time, just [submit](http://apply.acmutd.co/research-coding-challenge) whatever you have! Also, you *can* technically turn it in after midnight – we will look at submissions tomorrow morning – but don't use that as an excuse to stay up late :P.
 
 This semester's challenge is especially open-ended. [Here is a dataset](https://www.kaggle.com/datasets/chancev/carsforsale) on Kaggle called "CarsForSale". It contains data scraped from the online car marketplace Cars.com. Each row contains 25 pieces of information about a car's listing, such as its price, year, model, and color.
 
